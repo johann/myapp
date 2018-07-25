@@ -7,6 +7,7 @@
     "@types/react": "^16.4.7",
     "@types/react-dom": "^16.0.6",
     "@types/react-native": "^0.56.4",
+    "@types/react-native-vector-icons": "^4.6.1",
     "@types/react-test-renderer": "^16.0.1",
     "concurrently": "^3.6.1",
     "jest-expo": "27.0.0",
@@ -40,8 +41,11 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
     "expo": "^27.0.1",
     "react": "16.3.1",
-    "react-native": "~0.55.2"
+    "react-native": "~0.55.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-vector-icons": "^4.6.0"
   }
 }
